@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Isaac-Stephens
-- 👀 I’m a sophmore in computer science at Missouri S&T.
+- 👀 I’m a junior in computer science at Missouri S&T.
 - 📫 Email: isaac.stephens1529@gmail.com
 
 <!---

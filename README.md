@@ -11,7 +11,7 @@ Rolla, MO
 
 I am a Computer Science student with hands-on experience across **software development, systems programming, and backend web infrastructure**. I enjoy working close to the metal when needed, but I am equally comfortable building full-stack tools and data-driven applications.
 
-I focus on writing **clean, reliable, and performant code**, and I value strong documentation and testing. My background includes Linux system administration, virtualization, containerization, database-backed applications, and backend API development. I also hold an active **DoD Secret Security Clearance**, and I am actively seeking **software engineering, systems, or cybersecurity internships**.
+I focus on writing **clean, reliable, and performant code**, and I value strong documentation and testing. My background includes Linux system administration, virtualization, containerization, database-backed applications, and backend API development. I also hold an active **DoD Secret Security Clearance**, and I am actively seeking **software engineering, network engineering, systems, or cybersecurity internships**.
 
 ---
 

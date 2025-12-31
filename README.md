@@ -7,7 +7,7 @@ Rolla, MO
 
 ---
 
-## 🧑‍💻 About Me
+## About Me
 
 I am a Computer Science student with hands-on experience across **software development, systems programming, and backend web infrastructure**. I enjoy working close to the metal when needed, but I am equally comfortable building full-stack tools and data-driven applications.
 

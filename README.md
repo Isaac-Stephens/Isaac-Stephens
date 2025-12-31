@@ -15,20 +15,7 @@ I focus on writing **clean, reliable, and performant code**, and I value strong 
 
 ---
 
-## 🚀 Featured Projects
-
-| Project | Description |
-|--------|-------------|
-| **Gym-Manager** | Full-stack gym management system using **Flask + MariaDB + Nginx**. Handles memberships, billing, check-ins, staff roles, and reporting. |
-| **isaacstephens.com** | Personal website and technical portfolio hosted on a Linux server with Nginx and reverse proxying. |
-| **Operating Systems Kernel Benchmarking** | Comparative benchmarking of Linux kernel schedulers using **QEMU/KVM, perf, sysbench, cyclictest**, and custom automation scripts. |
-| **C++ Systems Projects** | Various projects focused on data structures, algorithms, performance, and debugging with GDB/Valgrind. |
-
-Pinned repositories below showcase my most active and relevant work.
-
----
-
-## 🧰 Skills & Technologies
+## Skills & Technologies
 
 - **Languages:** C/C++, Python, SQL, HTML, CSS  
 - **Tools & Workflow:** Git & GitHub, Linux (Arch, Debian), Docker & Docker Compose, MariaDB/MySQL, Flask, Nginx, Make & CMake, GDB, Valgrind, SSH, Bash scripting, QEMU/KVM  
@@ -36,13 +23,13 @@ Pinned repositories below showcase my most active and relevant work.
 
 ---
 
-## 🛡️ Security Clearance
+## Security Clearance
 
 I currently hold an active **DoD Secret Security Clearance**, enabling me to contribute immediately to government, defense, and other security-sensitive software and systems projects.
 
 ---
 
-## 🔐 Systems & Security Experience
+## Systems & Security Experience
 
 - Linux user and administrator across multiple distributions  
 - Virtualization with QEMU/KVM and libvirt  
@@ -53,7 +40,7 @@ I currently hold an active **DoD Secret Security Clearance**, enabling me to con
 
 ---
 
-## 📫 Contact
+## Contact
 
 - Email: isaac.stephens1529@gmail.com  
 - Website: https://www.isaacstephens.com
@@ -61,7 +48,7 @@ I currently hold an active **DoD Secret Security Clearance**, enabling me to con
 
 ---
 
-## ⭐ What You Can Expect From My Work
+## What You Can Expect From My Work
 
 - Well-structured, readable code  
 - Meaningful documentation  

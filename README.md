@@ -1,43 +1,38 @@
-# Hey, I’m Isaac
+# Hey, I'm Isaac
 
-**Senior, Computer Science @ Missouri University of Science & Technology**  
-Rolla, MO  
-🌐 [isaacstephens.com](https://www.isaacstephens.com)  
-📫 isaac.stephens1529@gmail.com  
+**Computer Science | Missouri University of Science & Technology**  
+Rolla, MO | Graduating May 2027  
+[Website](https://www.isaacstephens.com) | [LinkedIn](https://www.linkedin.com/in/isaacstephens1529/) | [Email](mailto:isaac.stephens1529@gmail.com)
 
 ---
 
 ## About Me
 
-I am a Computer Science student with hands-on experience across **software development, systems programming, and backend web infrastructure**. I enjoy working close to the metal when needed, but I am equally comfortable building full-stack tools and data-driven applications.
+I'm a senior studying Computer Science at Missouri S&T, with minors in Computer Engineering and Mathematics.
 
-I focus on writing **clean, reliable, and performant code**, and I value strong documentation and testing. My background includes Linux system administration, virtualization, containerization, database-backed applications, and backend API development. I also hold an active **DoD Secret Security Clearance**, and I am actively seeking **software engineering, network engineering, systems, or cybersecurity roles**.
+My interests are primarily in **software engineering, Linux systems, DevOps, and infrastructure automation**. I enjoy building applications, working with servers, and figuring out how different systems fit together.
 
----
+Most of my recent work has involved Kubernetes, Docker, CI/CD, and GitOps. I'm also a Sergeant in the Missouri Army National Guard, where I've gained leadership experience managing teams and operating in demanding environments.
 
-## Security Clearance
+I hold an **active DoD Secret Security Clearance** and am interested in opportunities within both the private sector and defense industry.
 
-I currently hold an active **DoD Secret Security Clearance**, enabling me to contribute immediately to government, defense, and other security-sensitive software and systems projects.
+I'm currently looking for full-time engineering opportunities starting in 2027.
 
----
+## Projects
 
-## Systems & Security Experience
+**[Townsville](https://github.com/Isaac-Stephens/townsville)** — My three-node, high-availability k3s homelab running openSUSE MicroOS. I use FluxCD and Kustomize to manage deployments through GitOps, with Tailscale and Cloudflare for networking and remote access.
 
-- Linux user and administrator across multiple distributions  
-- Virtualization with QEMU/KVM and libvirt  
-- Secure remote access with SSH  
-- Containerized deployments with Docker  
-- Backend authentication and role-based access control  
-- Exposure to kernel scheduling, performance tracing, and system profiling  
+**[mediaMaps](https://github.com/Florgropuli-Evil-Incorperated/mediaMaps)** — My senior capstone project, where I serve as the DevOps and Deployment Lead for an eight-person team. I've worked on containerizing our Flask application, building CI/CD pipelines with GitHub Actions, and deploying to Kubernetes.
 
----
+**Research Automation** — Python tools I've developed at Missouri S&T's Materials Research Center to automate document extraction, data organization, and preparation for AI-assisted analysis.
 
-## Contact
+## Technical Skills
 
-- Email: isaac.stephens1529@gmail.com  
-- Website: https://www.isaacstephens.com
-- LinkedIn: https://www.linkedin.com/in/isaacstephens1529/
+- **Languages:** C/C++, Python, SQL, HTML, CSS, Assembly
+- **Infrastructure:** Linux, Kubernetes, Docker, FluxCD, Kustomize
+- **Tools:** Git, GitHub Actions, Nginx, Cloudflare, Tailscale
+- **Other:** CI/CD, GitOps, Linux administration, networking, virtualization
 
 ---
 
-> *"Intelligence is the ability to avoid doing work, yet getting the work done.”* - Linus Torvalds
+> *"Intelligence is the ability to avoid doing work, yet getting the work done."* — Linus Torvalds

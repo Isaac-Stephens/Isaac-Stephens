@@ -20,11 +20,11 @@ I'm currently looking for full-time engineering opportunities starting in 2027.
 
 ## Projects
 
-**[Townsville](https://github.com/Isaac-Stephens/townsville)** — My three-node, high-availability k3s homelab running openSUSE MicroOS. I use FluxCD and Kustomize to manage deployments through GitOps, with Tailscale and Cloudflare for networking and remote access.
+**[Townsville](https://github.com/Isaac-Stephens/townsville)** - My three-node, high-availability k3s homelab running openSUSE MicroOS. I use FluxCD and Kustomize to manage deployments through GitOps, with Tailscale and Cloudflare for networking and remote access.
 
-**[mediaMaps](https://github.com/Florgropuli-Evil-Incorperated/mediaMaps)** — My senior capstone project, where I serve as the DevOps and Deployment Lead for an eight-person team. I've worked on containerizing our Flask application, building CI/CD pipelines with GitHub Actions, and deploying to Kubernetes.
+**[mediaMaps](https://github.com/Florgropuli-Evil-Incorperated/mediaMaps)** - My senior capstone project, where I serve as the DevOps and Deployment Lead for an eight-person team. I've worked on containerizing our Flask application, building CI/CD pipelines with GitHub Actions, and deploying to Kubernetes.
 
-**Research Automation** — Python tools I've developed at Missouri S&T's Materials Research Center to automate document extraction, data organization, and preparation for AI-assisted analysis.
+**Research Automation** - Python tools I've developed at Missouri S&T's Materials Research Center to automate document extraction, data organization, and preparation for AI-assisted analysis.
 
 ## Technical Skills
 
